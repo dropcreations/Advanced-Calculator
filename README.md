@@ -13,7 +13,7 @@ Advanced windows calculator project for C# beginners
 * You can add, substract, multiply, divide any count of numbers.
 * You can get the square root and the power as well.
 * Evaluates commands immediately as they are entered.
-* Keybord controls are available.
+* Keyboard controls are available.
 
 ## __Usage__
 
