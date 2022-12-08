@@ -1,6 +1,6 @@
 # Advanced-Calculator
 
-Basic windows calculator project for C# beginners
+Advanced windows calculator project for C# beginners
 
 ## __User Interface__
 
