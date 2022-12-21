@@ -11,7 +11,7 @@ Advanced windows calculator project for C# beginners
 * This app only provides standard calculator functionality.
 * Only supports 10-digit numbers at once
 * You can add, substract, multiply, divide any count of numbers.
-* You can get the square root and the power as well.
+* You can get the square root and the power of two as well.
 * Evaluates commands immediately as they are entered.
 * Keyboard controls are available.
 
